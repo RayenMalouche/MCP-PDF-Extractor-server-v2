@@ -27,8 +27,8 @@ This project is designed for developers and systems requiring automated file con
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd PDFExtractor
+   git clone https://github.com/RayenMalouche/MCP-PDF-Extractor-server-v2.git
+   cd MCP-PDF-Extractor-server-v2
    ```
 
 2. **Create the File Directory**:
